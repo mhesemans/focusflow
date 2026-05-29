@@ -1,0 +1,15 @@
+.venv/
+.venv2/
+__pycache__/
+*.pyc
+
+build/
+dist/
+*.spec
+
+Output/
+*.exe
+
+.env
+.DS_Store
+Thumbs.db
